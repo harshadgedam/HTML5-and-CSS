@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>My Blog</h1>
+<body>
+    <br>
+    <h2>My Blog post 1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati consequuntur maxime officiis laudantium possimus sit voluptatibus illo culpa doloribus cumque minus accusamus, quasi natus a, aperiam nemo iste iure explicabo!</p>
+    <h2>My blog post 2</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, nemo! Modi quibusdam aliquid, eum dignissimos veniam ullam tempora voluptatum nobis labore natus! Aperiam veniam facere doloremque dolorem asperiores consequatur inventore.</p>
+    <a href="https:fa://facebook.com" target="_blank">go to</a>
+    <a href="tnx.html" target="_blank"> go to tnx</a><!-- or ./ means into current folder ../ to back folder-->
+    <!-- ./file1/structer2.html,../tnx.html-->
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>tnx for visiting me</p>
+    <a href="structer2.html" target="_blank"> back go</a>
+</body>
+</html>
