@@ -30,5 +30,6 @@
 <body>
     <p>tnx for visiting me</p>
     <a href="structer2.html" target="_blank"> back go</a>
+    <p>go to google <a href="https://google.co.in" target="_blank" title="most papuler search engine">Google</a></p>
 </body>
 </html>
