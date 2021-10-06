@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+</head>
+<body>
+    <p>go to google <a href="https://google.co.in" target="_blank" title="most papuler search engine">Google</a></p>
+    <p>go to google <a href="https://google.co.in" target="_blank" title="most papuler search engine">Google</a></p>
+    <img src="C:\kalishared\IMG_20210415_164303.jpg" alt=" awosme"> <!-- img is self close tag, alt use to describe and image is not found in path to show error-->
+    <ol type="A"><!--ordered list -->
+        <li>harshad </li>
+        <li>ali zafar</li>
+        <li>payal</li>
+    </ol>
+    <ol><!--ordered list -->
+        <li>harshad </li>
+        <li>ali zafar</li>
+        <li>payal</li>
+    </ol>
+    <ul style='list-style-type:none;'><!-- unorder, style css-->
+        <li>harshad</li>
+        <li>payal</li>
+    </ul>
+    <ul><!-- unorder, style css-->
+        <li>harshad</li>
+        <li>payal</li>
+    </ul>
+</body>
+</html>
