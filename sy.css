@@ -1,0 +1,46 @@
+header p{
+    font-family:sans-serif;
+    color: blue;
+    margin-left: 100;
+} 
+selection.my_articles > h2
+{
+    /*  */
+    color:green; /* selection ki class k h2 direct child jitne hai unke color green ho jayeneg*/
+    /* ex hindustan zindabad and Pakistan Zindabad thats it direct child*/
+}
+selection.my_articles h2+p
+{
+    /* adjecant selector */
+    color:indigo;
+    /* selection.my_articles k andar jitne bhi h2 he unke direct child he unka color */
+}
+*{
+/* univarsal selector */
+background-color:lavenderblush;
+}
+/* 22*/
+form input[type="text"]{
+    color:red;
+    /* jiske type text hai uska color tabdeel ho jayega */
+}
+li a[href="http://google.com"]{
+    color:red;
+    /* jiska href https://google.com hai uska color tabdeel ho jayega */
+}
+li a[href^="https"]{
+    color:lawngreen;
+    /* jiske starting me https likha hai uska color tabdeel ho jayega */
+}
+li a[href $=".com2"]
+{
+    color:yellow;
+    /* jiske ending me .com2 likha hai uska color tabdeel ho jayega */
+}
+li a[href *="google2"]
+{
+    color:black;
+    /* jiske bich me google2 likha likha hai uska color change ho jayega */
+}
+/* 44 */
+/* line number 22 se lekar 44 tak jitane bhi code likha hai attribute selector k liye hai */
